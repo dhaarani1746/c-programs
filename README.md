@@ -2,15 +2,16 @@
 
 This repository contains my C programming practice programs.
 
-## Programs Included
+## Topics Covered
+- Calculator Program
+- Stack Implementation
 
-- Calculator
-- Linked List
-- Stack
+## How to Compile and Run
 
-## How to Compile
-
+Compile:
 gcc filename.c -o output
+
+Run:
 ./output
 
 ## Author
